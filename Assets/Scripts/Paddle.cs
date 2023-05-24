@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Paddle : MonoBehaviour
 {
-    public float speed = 10.0f;
+    public float speed =20.0f;  // Speed change 20 instead of 10
     protected Rigidbody2D _rigidbody;
     private void Awake()
     {
