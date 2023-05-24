@@ -5,7 +5,7 @@ using UnityEngine;
 public class Ball : MonoBehaviour
 {
     private Rigidbody2D _rigidbody;
-    public float speed = 200.0f;
+    public float speed = 300.0f;
 
     private void Awake()
     {
