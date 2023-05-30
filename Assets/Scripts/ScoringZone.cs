@@ -6,6 +6,8 @@ using UnityEngine.EventSystems;
 public class ScoringZone : MonoBehaviour
 {
     public EventTrigger.TriggerEvent scoreTrigger;
+    //publicEvent Trigger
+    //privatEvent Trigger
 
     private void OnCollisionEnter2D(Collision2D Collision)
     {
