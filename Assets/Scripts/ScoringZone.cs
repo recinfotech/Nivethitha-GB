@@ -14,6 +14,7 @@ public class ScoringZone : MonoBehaviour
         {
             BaseEventData eventData = new BaseEventData(EventSystem.current);
             this.scoreTrigger.Invoke(eventData);
+            //this.scoreTrigger.Invoke(eventData);
         }
 
     }
