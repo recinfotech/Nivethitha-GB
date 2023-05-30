@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
     public Ball ball;
     //public Ball ball;
     public Paddle playerPaddle;
+    //private Paddle playerPaddle;
     public Paddle ComputerPaddle;
     public Text playerScoreText;
     public Text computerScoreText;
