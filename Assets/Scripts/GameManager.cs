@@ -7,7 +7,9 @@ public class GameManager : MonoBehaviour
 {
     public Ball ball;
     //public Ball ball;
+
     // private Ball ball;
+
     public Paddle playerPaddle;
     //private Paddle playerPaddle;
     public Paddle ComputerPaddle;
