@@ -6,7 +6,7 @@ using UnityEngine.EventSystems;
 public class ScoringZone : MonoBehaviour
 {
     public EventTrigger.TriggerEvent scoreTrigger;
-
+//public EventTrigger.TriggerEvent scoreTrigger;
     private void OnCollisionEnter2D(Collision2D Collision)
     {
         Ball ball = Collision.gameObject.GetComponent<Ball>();
