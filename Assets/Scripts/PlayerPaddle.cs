@@ -24,6 +24,7 @@ public class PlayerPaddle : Paddle
         {
             _direction = Vector2.zero;
             // Debug.Log("hi2");
+            Debug.Log("SivaPriya");
         }
     }
     private void FixedUpdate()
