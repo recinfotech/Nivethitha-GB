@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnemyCollider
+  - Enemy
+  - Water
+  - coin
+  - LevelStand
+  - CircleEnemy
+  - SquareEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Ground
+  - Wall
+  - Grass
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2502283247
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3335742629
+    locked: 0
+  - name: Player
+    uniqueID: 1341743735
+    locked: 0
+  - name: Ground
+    uniqueID: 2248584079
+    locked: 0
+  - name: Grass
+    uniqueID: 353295133
+    locked: 0
